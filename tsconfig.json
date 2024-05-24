@@ -107,6 +107,6 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "lib": ["esnext"],
-  "include": ["src/**/*.ts"],
+  "include": ["main.ts"],
   "exclude": ["node_modules"]
 }
